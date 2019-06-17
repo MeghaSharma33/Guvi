@@ -2,10 +2,10 @@ a = int(input())
 if (a%4==0):
     if (a%100==0):
         if (a%400==0):
-            print("Yes")
+            print("yes")
         else:
-            print("No")
+            print("no")
     else:
-        print("Yes")
+        print("yes")
 else:
-    print("No")
+    print("no")

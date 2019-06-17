@@ -6,6 +6,6 @@ if (a%4==0):
         else:
             print("No")
     else:
-        print("No")
+        print("Yes")
 else:
-    print("Yes")
+    print("No")
